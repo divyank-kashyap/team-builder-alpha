@@ -1,0 +1,14 @@
+{
+    "name": "valorant-team-builder",
+    "version": "1.0.0",
+    "description": "A backend for building Valorant teams based on player roles and performance.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^7.0.0"
+    }
+  }
+  
